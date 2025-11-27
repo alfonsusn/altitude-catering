@@ -17,7 +17,7 @@ window.packages = [
             'Dessert: Assorted French Pastries & Fresh Fruit Platter',
             'Beverage: Iced Lemon Tea & Infused Water'
         ],
-        image: 'images/western_premium_buffet.jpg',
+        image: 'images/western_premium_buffet.webp',
         popular: true
     },
     {
@@ -36,7 +36,7 @@ window.packages = [
             'Dessert: Chocolate Mousse & Panna Cotta',
             'Beverage: Orange Juice & Mineral Water'
         ],
-        image: 'images/european_classic_buffet.jpg',
+        image: 'images/european_classic_buffet.webp',
         popular: false
     },
     {
@@ -55,7 +55,7 @@ window.packages = [
             'Dessert: Mango Sticky Rice & Coconut Pudding',
             'Beverage: Thai Tea & Lemongrass Drink'
         ],
-        image: 'images/asian_fusion_deluxe.jpg',
+        image: 'images/asian_fusion_deluxe.webp',
         popular: true
     },
 
@@ -75,7 +75,7 @@ window.packages = [
             'Side: Yasai Itame (Mixed Vegetables)',
             'Condiments: 3 Kinds of Dipping Sauces'
         ],
-        image: 'images/japanese_teppanyaki_station.jpg',
+        image: 'images/japanese_teppanyaki_station.webp',
         popular: true
     },
     {
@@ -92,7 +92,7 @@ window.packages = [
             'Side: Garlic Bread & Bruschetta',
             'Cheese: Grana Padano Wheel Mixing'
         ],
-        image: 'images/italian_pasta_station.jpg',
+        image: 'images/italian_pasta_station.webp',
         popular: false
     },
     {
@@ -110,7 +110,7 @@ window.packages = [
             'Side: Mashed Potatoes',
             'Sauce: Mushroom, Black Pepper, BBQ'
         ],
-        image: 'images/bbq_grill_station.jpg',
+        image: 'images/bbq_grill_station.webp',
         popular: true
     },
 
@@ -129,7 +129,7 @@ window.packages = [
             'Dessert: Valrhona Chocolate Fondant',
             'Drink: Free Flow Wine & Sparkling Water'
         ],
-        image: 'images/royal_western_set.jpg',
+        image: 'images/royal_western_set.webp',
         popular: false
     },
     {
@@ -146,7 +146,7 @@ window.packages = [
             'Side: Greek Salad & Roasted Vegetables',
             'Dessert: Baklava & Turkish Delight'
         ],
-        image: 'images/mediterranean_family_feast.jpg',
+        image: 'images/mediterranean_family_feast.webp',
         popular: true
     }
 ];
@@ -189,18 +189,18 @@ window.testimonials = [
 
 // Gallery Images Data with Placeholders
 window.galleryImages = [
-    { id: 1, category: 'food', src: 'images/gallery_buffet_display.jpg', alt: 'Buffet Display' },
-    { id: 2, category: 'food', src: 'images/gallery_meal_box.jpg', alt: 'Meal Box Arrangement' },
-    { id: 3, category: 'event', src: 'images/gallery_wedding.jpg', alt: 'Wedding Catering' },
-    { id: 4, category: 'event', src: 'images/gallery_corporate.jpg', alt: 'Corporate Event' },
-    { id: 5, category: 'food', src: 'images/gallery_tumpeng.jpg', alt: 'Ceremonial Rice Display' },
-    { id: 6, category: 'setup', src: 'images/gallery_buffet_setup.jpg', alt: 'Buffet Setup' },
-    { id: 7, category: 'food', src: 'images/gallery_dessert.jpg', alt: 'Dessert Table' },
-    { id: 8, category: 'event', src: 'images/gallery_birthday.jpg', alt: 'Birthday Party' },
-    { id: 9, category: 'setup', src: 'images/gallery_table_setting.jpg', alt: 'Elegant Table Setting' },
-    { id: 10, category: 'food', src: 'images/gallery_snack_box.jpg', alt: 'Snack Box Collection' },
-    { id: 11, category: 'event', src: 'images/gallery_seminar.jpg', alt: 'Seminar Catering' },
-    { id: 12, category: 'setup', src: 'images/gallery_outdoor.jpg', alt: 'Outdoor Setup' }
+    { id: 1, category: 'food', src: 'images/gallery_buffet_display.webp', alt: 'Buffet Display' },
+    { id: 2, category: 'food', src: 'images/gallery_meal_box.webp', alt: 'Meal Box Arrangement' },
+    { id: 3, category: 'event', src: 'images/gallery_wedding.webp', alt: 'Wedding Catering' },
+    { id: 4, category: 'event', src: 'images/gallery_corporate.webp', alt: 'Corporate Event' },
+    { id: 5, category: 'food', src: 'images/gallery_tumpeng.webp', alt: 'Ceremonial Rice Display' },
+    { id: 6, category: 'setup', src: 'images/gallery_buffet_setup.webp', alt: 'Buffet Setup' },
+    { id: 7, category: 'food', src: 'images/gallery_dessert.webp', alt: 'Dessert Table' },
+    { id: 8, category: 'event', src: 'images/gallery_birthday.webp', alt: 'Birthday Party' },
+    { id: 9, category: 'setup', src: 'images/gallery_table_setting.webp', alt: 'Elegant Table Setting' },
+    { id: 10, category: 'food', src: 'images/gallery_snack_box.webp', alt: 'Snack Box Collection' },
+    { id: 11, category: 'event', src: 'images/gallery_seminar.webp', alt: 'Seminar Catering' },
+    { id: 12, category: 'setup', src: 'images/gallery_outdoor.webp', alt: 'Outdoor Setup' }
 ];
 
 // Team Members Data with Placeholders
